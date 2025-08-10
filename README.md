@@ -35,11 +35,6 @@ This app uses a **binary search algorithm** to guess your number between 1 and 1
 
 ---
 
-## 📷 Screenshot
-*(Add your game screenshot here)*
-
----
-
 ## 📚 How It Works
 The AI starts with the full range (1–100) and repeatedly guesses the middle value:
 1. If you click **Higher**, the lower bound increases.
@@ -53,10 +48,6 @@ The AI starts with the full range (1–100) and repeatedly guesses the middle va
 - Track **number of guesses taken**.
 - Implement **difficulty levels**.
 
----
-
-## 📜 License
-This project is open-source under the MIT License.
 
 ---
 💡 *Enjoy playing and see how quickly the AI can guess your number!*
